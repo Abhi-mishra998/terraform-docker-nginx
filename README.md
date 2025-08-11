@@ -63,7 +63,8 @@ The objective was to practice Infrastructure as Code (IaC) by deploying a servic
 
 
 ## 📷 Screenshot
-*(Add your screenshot showing the Nginx welcome page here)*
+*(<img width="1920" height="1080" alt="Screenshot_2025-08-11_12_27_13" src="https://github.com/user-attachments/assets/57d9bdb7-2393-4296-9b28-ca52e5556542" />
+)*
 
 
 
